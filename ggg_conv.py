@@ -1,6 +1,9 @@
 #! /usr/bin/env python3
 
-import os, sys, shutil, tarfile
+import os
+import sys
+import shutil
+import tarfile
 
 def main():
   args = sys.argv
